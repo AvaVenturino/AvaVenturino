@@ -2,7 +2,7 @@
 
 ### Fun facts about me
 - Black belt in Taekwondo 🥋
-- Enjoy watching anime
+- Enjoy watching anime 📺
 - Super extroverted 
 - Love spending time with my family and friends
 
