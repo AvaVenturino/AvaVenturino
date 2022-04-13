@@ -16,5 +16,5 @@
 
 ### Contact me 
 
-<a href"mailto:venturinoava@gmail.com?subject=%20><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<a href="mailto:venturinoava@gmail.com?subject=%20><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
