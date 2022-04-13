@@ -4,7 +4,7 @@
 - Black belt in Taekwondo 🥋
 - Enjoy watching anime 📺
 - Super extroverted 🗣️
-- Love spending time with my family and friends
+- Love spending time with my family and friends 👨‍👩‍👧‍👧
 
 
 ### Programming languages 💻 
