@@ -1,10 +1,8 @@
-## I'm Ava Venturino👋
+## I'm Ava Venturino
 
 ### Fun facts about me
 - Black belt in Taekwondo 🥋
 - Enjoy watching anime 📺
-- Super extroverted 🗣️
-- Love spending time with my family and friends 👨‍👩‍👧‍👧
 
 
 ### Programming languages 💻 
